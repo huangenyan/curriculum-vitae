@@ -1,91 +1,140 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Evan, Enyan Huang's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Evan, Enyan Huang
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+Male | Born in 1991 |  <a href="huangenyan@gmail.com">huangenyan@gmail.com</a> | +852 64305106
 </div>
+---
+Thank you for taking the time to have a look at my CV.
 
+I'm Evan, a full stack software developer graduated in 2017. I have strong interest in computer science and software engineering from my young age and have no hastate for choosing it as my career. I'm experienced in developing software systems including both backend (server side) and frontend (client side). For backend, I have rich experience in developing backend with _Nginx_, _Node.js_, _MongoDB_ and _Redis_. I'm also familiar (but have less experience) with other technology stacks such as _Spring Boot_ and _Django_. For frontend, I have rich experience in developing both websites and mobile Apps. I use modern web technologies to develop websites, such as _ES6_ (or later), _TypeScript_, _Babel_ and _Webpack_. I usually use _React.js_ as the framework and I also have some knowledge in _Vue_ and _Angular_. I also use _jQuery_ for older projects.
 
-## Currently
+I'm also working on A.I. related projects for over 2 years. I start to study A.I. during my Master degree, and find it is very interesting to me, so I choose to become an A.I. Specialist in my current company. I'm specially working on Deep Learning based Computer Vision problems here, such as Object Detection and Facial Recognition. I use both _TensorFlow_ and _PyTorch_ to develop Deep Learning models. I also have a little experience in other deep learning problems like Time Series Analysis using Recurrent Neural Network (RNN).
 
-Standing on the shoulders of giants
+I'm good at many different but related areas in computer science and software engineering, because I enjoy programming and I feel happy to learn new technologies. My current work gives me the oppotunity to apply my knowledge to real projects. This is the reason why I have experience in several different domains as I mentioned above. I still keep learning new stuff since I really enjoy the learning process and want to apply what I learn to my work.
 
-### Specialized in
+Currently, I'm looking for new jobs with the following expectations: 1) It can utilizing my knowledge to real applications. The applications have enough social impact at present or in the future. 2) I can continue studying new skills and the my work should keep in touch with latest technologies in the world.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Experience
 
+`2017-2019`
+A.I. Specialist, _Application Technology Company Limited_, Hong Kong
 
-### Research interests
+### Highlighted Projects
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`2019`
+__Human Counting System__
 
+- Counting people using IP cameras
+- Developing Object Detection algorithm (_TensorFlow_, _Keras_, _PyTorch_)
+- Developing backend server (_Nginx_, _Node.js_, _MongoDB_)
+- Developing website (_React.js_, _Webpack_)
+
+`2018`
+__Companies Information Search Engine__
+
+- Developing Search Engine (_Elasticsearch_)
+- Developing backend server (_Nginx_, _Node.js_, _MongoDB_)
+- Developing data crawlers (_Scrapy_, _Puppeteer_)
+- Developing website (_React.js_, _Webpack_)
+
+`2018`
+__Facial Recognition based Check-in App__
+
+- Developing Facial Recognition algorithm (_Python_)
+- Developing backend server (_Nginx_, _Node.js_, _gRPC_, _Flask_, _MongoDB_, _Redis_)
+- Developing website (_React.js_, _Webpack_, _jQuery_)
+- Developing iOS and Android Apps (_Obj-C_, _Java_)
+
+`2017`
+__Business Cards Management App__
+
+- Developing OCR and Named Entity Recognition (NER) algorithm (_Python_)
+- Developing backend server (_Node.js_, _MongoDB_, _Redis_)
+- Developing website (_Webpack_, _jQuery_)
+- Developing iOS and Android Apps (_Obj-C_, _Java_, _React Native_)
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2014-2017`
+Master of Philosophy, _The Hong Kong Polytechnic University_, Hong Kong
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Research on Cyber Physical Systems (CPS)
+- Physical-behavior based control system debugging and fault localization
+- 3D reconstruction with Structure from Motion (SfM)
+- Drone control system based on ArduPilot
 
-- Sizar
+`2010-2014`
+Bachelor of Science in Computing, _The Hong Kong Polytechnic University_, Hong Kong
 
-`1667 - death`
-__Trinity College, Cambridge__
+- First Class Hornors
+- GPA of Award: 3.67
 
-- Fellow
+`2013`
+Computer Science, _University of California, Riverside_, United States
 
+- Exchange Program
 
+## Skills
 
-## Awards
+__I have experience in using the following skills in real projects for my work:__
 
-`2012`
-President, *Royal Society*, London, UK
+__Programming Languages__
 
-Associate, *French Academy of Science*, Paris, France
+- JavaScript (TypeScript, ES6+)
+- Python
+- Java
+- Objective-C
+- Swift
+- C++
+- PHP
+- CSS (SCSS, Stylus)
 
+__Development Tools__
 
+- Linux
+- Git
+- CMake
+- Gradle
+- Fastlane
+- PM2
+- Webpack
+- Babel
 
-## Publications
+__Frameworks__
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- Node.js (Express.js, Koa2)
+- React.js
+- jQuery
+- gRPC
+- PyTorch
+- TensorFlow
 
-### Journals
+__Database__
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+- MongoDB
+- Redis
+- MySQL
 
-`1669`
-Lectiones opticæ.
+__Miscellaneous__
 
-etc. etc. etc.
+- Elasticsearch
+- Nginx
+- Docker
 
-### Patents
+## Languages
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+__Mandarin__ (native)
 
+__English__ (proficient)
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+__Cantonese__ (proficient in understanding, poor in speaking)
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Dec 1, 2019 -->
 
 
