@@ -16,7 +16,7 @@ I'm also working on A.I. related projects for over 2 years. I start to study A.I
 
 I'm good at many different but related areas in computer science and software engineering, because I enjoy programming and I feel happy to learn new technologies. My current work gives me the oppotunity to apply my knowledge to real projects. This is the reason why I have experience in several different domains as I mentioned above. I still keep learning new stuff since I really enjoy the learning process and want to apply what I learn to my work.
 
-Currently, I'm looking for new jobs with the following expectations: 1) It can utilizing my knowledge to real applications. The applications have enough social impact at present or in the future. 2) I can continue studying new skills and the my work should keep in touch with latest technologies in the world.
+Currently, I'm looking for new jobs with the following expectations: 1) It should be a senior job which can utilize my knowledge to real applications. The applications should have enough social impact at present or in the future. 2) I can continue studying new skills and the my work should keep in touch with latest technologies in the world. 3) The salary should be around __HK$600,000__ per year.
 
 ## Experience
 
