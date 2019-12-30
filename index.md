@@ -12,9 +12,9 @@ Thank you for taking the time to have a look at my CV.
 
 I'm Evan, a full stack software developer graduated in 2017. I have strong interest in computer science and software engineering from my young age and have no hastate for choosing it as my career. I'm experienced in developing software systems including both backend (server side) and frontend (client side). For backend, I have rich experience in developing backend with _Nginx_, _Node.js_, _MongoDB_ and _Redis_. I'm also familiar (but have less experience) with other technology stacks such as _Spring Boot_ and _Django_. For frontend, I have rich experience in developing both websites and mobile Apps. I use modern web technologies to develop websites, such as _ES6_ (or later), _TypeScript_, _Babel_ and _Webpack_. I usually use _React.js_ as the framework and I also have some knowledge in _Vue_ and _Angular_. I also use _jQuery_ for older projects.
 
-I'm also working on A.I. related projects for over 2 years. I start to study A.I. during my Master degree, and find it is very interesting to me, so I choose to become an A.I. Specialist in my current company. I'm specially working on Deep Learning based Computer Vision problems here, such as Object Detection and Facial Recognition. I use both _TensorFlow_ and _PyTorch_ to develop Deep Learning models. I also have a little experience in other deep learning problems like Time Series Analysis using Recurrent Neural Network (RNN).
+I'm also working on A.I. related projects for over 2 years. I start to study A.I. during my Master degree, and I choose to become an A.I. Specialist in my current company. I'm specially working on Deep Learning based Computer Vision problems here, such as Object Detection and Facial Recognition. I use both _TensorFlow_ and _PyTorch_ to develop Deep Learning models. I also have a little experience in other deep learning problems like Time Series Analysis using Recurrent Neural Network (RNN).
 
-I'm good at many different but related areas in computer science and software engineering, because I enjoy programming and I feel happy to learn new technologies. My current work gives me the oppotunity to apply my knowledge to real projects. This is the reason why I have experience in several different domains as I mentioned above. I still keep learning new stuff since I really enjoy the learning process and want to apply what I learn to my work.
+I'm good at many different but related areas in computer science and software engineering, because I enjoy programming and I feel happy to learn new technologies. My current work gives me the oppotunity to apply my knowledge to real projects. This is the reason why I have experience in several different domains. I still keep learning new stuff since I really enjoy the learning process and want to apply what I learn to my work.
 
 Currently, I'm looking for new jobs with the following expectations: 1) It should be a senior job which can utilize my knowledge to real applications. The applications should have enough social impact at present or in the future. 2) I can continue studying new skills and the my work should keep in touch with latest technologies in the world. 3) The salary should be around __HK$600,000__ per year.
 
@@ -65,7 +65,6 @@ Master of Philosophy, _The Hong Kong Polytechnic University_, Hong Kong
 - Research on Cyber Physical Systems (CPS)
 - Physical-behavior based control system debugging and fault localization
 - 3D reconstruction with Structure from Motion (SfM)
-- Drone control system based on ArduPilot
 
 `2010-2014`
 Bachelor of Science in Computing, _The Hong Kong Polytechnic University_, Hong Kong
