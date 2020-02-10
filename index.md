@@ -21,7 +21,7 @@ Currently, I'm looking for new jobs with the following expectations: 1) It shoul
 ## Experience
 
 `2017-2019`
-A.I. Specialist, _Application Technology Company Limited_, Hong Kong
+Full Stack Developer & A.I. Specialist, _Application Technology Company Limited_, Hong Kong
 
 ### Highlighted Projects
 
