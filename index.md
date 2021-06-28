@@ -10,9 +10,9 @@ Male | Born in 1991 |  <a href="huangenyan@gmail.com">huangenyan@gmail.com</a> |
 ---
 Thank you for taking the time to have a look at my CV.
 
-I'm Evan, a full stack software developer graduated in 2017. I have strong interest in computer science and software engineering from my young age and have no hastate for choosing it as my career. I'm experienced in developing software systems including both backend (server side) and frontend (client side). For backend, I have rich experience in developing backend with _Nginx_, _Node.js_, _MongoDB_ and _Redis_. I'm also familiar (but have less experience) with other technology stacks such as _Spring Boot_ and _Django_. For frontend, I have rich experience in developing both websites and mobile Apps. I use modern web technologies to develop websites, such as _ES6_ (or later), _TypeScript_, _Babel_ and _Webpack_. I usually use _React.js_ as the framework and I also have some knowledge in _Vue_ and _Angular_. I also use _jQuery_ for older projects.
+I'm Evan, a full stack software developer graduated in 2017. I have strong interest in computer science and software engineering from my young age and have no hastate for choosing it as my career. I'm experienced in developing software systems including both backend (server side) and frontend (client side), as well as deploying application to the cloud (DevOps). For backend, I have rich experience in developing backend with _Nginx_, _Node.js_, _Python_, _MongoDB_ and _Redis_. I'm also familiar (but have less experience) with other technology stacks such as _Spring Boot_ and _Go_. For frontend, I have rich experience in developing both websites and mobile Apps. I use modern web technologies to develop websites, such as _ES6_ (or later), _TypeScript_, _Babel_ and _Webpack_. I usually use _React.js_ as the framework. I also use _Angular_ in my recent projects, and I also have some knowledge in _Vue.js_. I also use _jQuery_ for older projects. I also have experience in popular deployment stacks, especially containerized technology such as _AWS_, _Kubernetes_, _Helm_ and _Argo CD_.
 
-I'm also working on A.I. related projects for over 2 years. I start to study A.I. during my Master degree, and I choose to become an A.I. Specialist in my current company. I'm specially working on Deep Learning based Computer Vision problems here, such as Object Detection and Facial Recognition. I use both _TensorFlow_ and _PyTorch_ to develop Deep Learning models. I also have a little experience in other deep learning problems like Time Series Analysis using Recurrent Neural Network (RNN).
+I'm also working on A.I. related projects for over 2 years. I start to study A.I. during my Master degree, and I choose to become an A.I. Specialist in my first job. I'm specially working on Deep Learning based Computer Vision problems there, such as Object Detection and Facial Recognition. I use both _TensorFlow_ and _PyTorch_ to develop Deep Learning models. I also have a little experience in other deep learning problems like Time Series Analysis using Recurrent Neural Network (RNN).
 
 I'm good at many different but related areas in computer science and software engineering, because I enjoy programming and I feel happy to learn new technologies. My current work gives me the oppotunity to apply my knowledge to real projects. This is the reason why I have experience in several different domains. I still keep learning new stuff since I really enjoy the learning process and want to apply what I learn to my work.
 
@@ -20,10 +20,28 @@ Currently, I'm looking for new jobs with the following expectations: 1) It shoul
 
 ## Experience
 
+`2020-2021`
+Senior Software Engineer, _Kami Intelligence Limited_, Hong Kong
+
 `2017-2019`
 Full Stack Developer & A.I. Specialist, _Application Technology Company Limited_, Hong Kong
 
 ### Highlighted Projects
+
+`2020-2021`
+__Personalized Recommendation Engine__
+
+- User Behavior Log and Analysis (_Kafka_, _ElasticSearch_, _Kibana_)
+- Content-based Recommendation (_ElasticSearch_)
+- Knowledge Graph (_ArangoDB_)
+
+`2020`
+__Online Programming Exam Platform__
+
+- Exam Session Management System (_Angular_, _Django_)
+- Ubuntu Remote Desktop as Exam Environment (_Guacamole_, _RDP_, _Linux_)
+- Exam Environment Management System (_Node.js_, _AWS_)
+- Exam App inside Exam Environment (_Electron_)
 
 `2019`
 __Human Counting System__
@@ -107,22 +125,27 @@ __Frameworks__
 
 - Node.js (Express.js, Koa2)
 - React.js
+- Angular
 - jQuery
 - gRPC
 - PyTorch
 - TensorFlow
+- Django
+- FastAPI
 
 __Database__
 
 - MongoDB
 - Redis
 - MySQL
+- ArangoDB
 
 __Miscellaneous__
 
 - Elasticsearch
 - Nginx
 - Docker
+- Kubernetes
 
 ## Languages
 
