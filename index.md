@@ -30,7 +30,7 @@ Senior Software Engineer, **Kami Intelligence Limited**, Hong Kong
 `2017-2019`
 Full Stack Developer & A.I. Specialist, **Application Technology Company Limited**, Hong Kong
 
-### Highlighted Projects
+## Highlighted Projects
 
 `2024-2026`
 __Personalized Feed Stream__
