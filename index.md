@@ -10,7 +10,7 @@ Male | Born in 1991 |  <a href="huangenyan@gmail.com">huangenyan@gmail.com</a> |
 ---
 Thank you for taking the time to have a look at my CV.
 
-I'm Evan, a data scientist and full stack software developer. I focus on building personalized recommendation systems over 6 years, inlcuding but not limited to model training, feature engineering, data analysis and service development. I'm familiar with AI tools (e.g. Claude Code / Open Claw / DeepSeek Harness), and use them in my daily work to increase effiency. I'm also experienced with AI agent development framework (e.g. LangChain) to build in-house AI agents to empower the recommendation system.
+I'm Evan, a data scientist and full stack software developer. I focus on building personalized recommendation systems over 6 years, inlcuding but not limited to model training, feature engineering, data analysis and service development. I'm familiar with AI tools (e.g. _Claude Code_ / _Open Claw_ / _DeepSeek Harness_), and use them in my daily work to increase effiency. I'm also experienced with AI agent development framework (e.g. _LangChain_) to build in-house AI agents to empower the recommendation system.
 
 I have a wide tech stack in both software engineering and AI. I build both Backend and Frontend Apps using different programming languages and frameworks, especially _Java_ (_Spring Boot_, _Spark_, _Flink_), _Python_ (_Fast API_, _PyTorch_, _LangChain_) and _TypeScript_ (_Node.js_, _Next.js_, _React_)
 
@@ -22,13 +22,13 @@ Currently, I'm looking for new oppotunities with the following expectations: 1) 
 
 ## Experience
 `2021-present`
-Data Scientist, *Binance*
+Data Scientist, **Binance**
 
 `2020-2021`
-Senior Software Engineer, *Kami Intelligence Limited*, Hong Kong
+Senior Software Engineer, **Kami Intelligence Limited**, Hong Kong
 
 `2017-2019`
-Full Stack Developer & A.I. Specialist, *Application Technology Company Limited*, Hong Kong
+Full Stack Developer & A.I. Specialist, **Application Technology Company Limited**, Hong Kong
 
 ### Highlighted Projects
 
